@@ -16,7 +16,7 @@
           p.mt-5 Los grandes jóvenes emprendedores se enfrentan constantemente a  tomar decisiones basados en el análisis y observaciones. Con el desarrollo de este tema podrás conocer la importancia de la toma de decisiones, cómo la elección entre dos o más alternativas puede traer consecuencias positivas o negativas en tu vida cotidiana, así como, potencializar o afectar el éxito de tu emprendimiento.
       .row.justify-content-center.align-items-start.mx-2         
         .col-lg-12.pb-5.d-none.d-lg-block           
-          .row.justify-content-end.align-items-center.color-p-gray.mx-2.row-top         
+          .row.justify-content-end.align-items-center.color-p-gray.mx-2.row-top      
             .col-lg-8(data-aos="fade-right")
               p.mb-0.py-4 También conocerás el proceso de toma de decisiones y cuáles son los pasos o fases que te permitirán optar por la alternativa óptima, fortaleciendo así sus habilidades y capacidades para evaluar y validar la información en el momento de tomar una decisión. 
 
@@ -38,4 +38,10 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.row-top
+  margin-top: -150px
+@media (max-width: 1300px)
+  .row-top
+    margin-top: -90px !important
+</style>
