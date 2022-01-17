@@ -158,10 +158,7 @@
               .col-lg-11.sup
                 .bg-img-1-t1.p-4
                   p.mb-0 De acuerdo con las opciones propuestas y la votación de los participantes, se podría concluir que implementar un sistema de pantallas, resulta ser la mejor decisión; no obstante, se debe estudiar más esta alternativa, estará de acuerdo en que se puede generar altos costos económicos que deriven en un incremento en el valor de los pasajes.   
-
-        .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")         
-          .col-lg-10
-            img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img20.svg', alt='') 
+ 
         hr.mt-4
       .row.justify-content-center.align-items-center(titulo="2. Diagrama de ishikawa")
         .bg-img-3-t2.mb-5
@@ -209,9 +206,7 @@
         .bg-img-4-t2.p-5
           h4 Ejemplo aplicado
           p Una fábrica de zapatos ha identificado una disminución constante en la producción, se reúne el equipo encargado para identificar cuáles son las causas principales que están generando esta situación, para lo cual se realiza una lluvia de ideas, posteriormente se realiza la jerarquización de las causas y se plasman en el siguiente diagrama de ishikawa.
-          img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img24.svg', alt='')
-
-        hr.mt-4
+          img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img20.svg', alt='')
 
       .row.justify-content-center.align-items-center(titulo="3. Análisis DOFA")
         .bg-img-3-t2
