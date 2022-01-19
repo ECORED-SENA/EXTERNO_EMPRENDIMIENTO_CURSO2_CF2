@@ -161,6 +161,7 @@
  
         hr.mt-4
       .row.justify-content-center.align-items-center(titulo="2. Diagrama de ishikawa")
+        img.img-t.img-a.mb-4(src='@/assets/ilustraciones/img20.svg', alt='')
         .bg-img-3-t2.mb-5
           .row.justify-content-center.align-items-center         
             .col-lg-4
@@ -206,7 +207,7 @@
         .bg-img-4-t2.p-5
           h4 Ejemplo aplicado
           p Una fábrica de zapatos ha identificado una disminución constante en la producción, se reúne el equipo encargado para identificar cuáles son las causas principales que están generando esta situación, para lo cual se realiza una lluvia de ideas, posteriormente se realiza la jerarquización de las causas y se plasman en el siguiente diagrama de ishikawa.
-          img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img20.svg', alt='')
+          img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img24.svg', alt='')
 
       .row.justify-content-center.align-items-center(titulo="3. Análisis DOFA")
         .bg-img-3-t2
