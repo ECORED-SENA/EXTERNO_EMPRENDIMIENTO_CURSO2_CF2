@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Toma de decisiones',
     descripcionCurso:
-      'Emprender supone tomar decisiones permanentemente; las decisiones siempre tendrán un impacto a nivel personal u organizacional, y las consecuencias derivadas pueden ser positivas o negativas. En esta unidad conocerá los pasos para tomar una decisión e identificará las herramientas más utilizadas para la generación de ideas y soluciones.',
+      'Emprender supone tomar decisiones permanentemente; las decisiones siempre tendrán un impacto a nivel personal u organizacional, y las consecuencias derivadas pueden ser positivas o negativas. En este componente formativo conocerá los pasos para tomar una decisión e identificará las herramientas más utilizadas para la generación de ideas y soluciones.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -108,17 +108,17 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Alternativas ',
+      termino: 'Alternativas',
       significado:
         'Posibilidad de optar o elegir entre dos o más opciones, que pueden materializarse para dar respuesta a una situación o problema determinados.',
     },
     {
-      termino: 'Causas ',
+      termino: 'Causas',
       significado:
         'Según la Real Academia Española RAE, causa es aquello que se considera como fundamento u origen de algo.',
     },
     {
-      termino: 'Consecuencias ',
+      termino: 'Consecuencias',
       significado:
         'Es un hecho, acontecimiento o efecto que resulta a partir de un suceso, evento o elección.',
     },

@@ -18,7 +18,7 @@
           p.mb-0 Si bien en la mayoría de las ocasiones no es fácil identificar todas las opciones posibles, cuantas más alternativas se generen es más probable obtener una que resulte significativamente satisfactoria. 
 
     separador(data-aos="slide-left")
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.1 Herramientas para generar alternativas  
 
     .bg-img-t2.py-5(data-aos="slide-down") 
@@ -45,7 +45,7 @@
           .col-lg-4(data-aos="fade-right")
             img(data-aos="zoom-in")(src='@/assets/ilustraciones/img11.png', alt='')        
           .col-lg-8(data-aos="fade-left")
-            p.mt-5 Esta técnica generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo. Pues permite aprovechar la participación de los integrantes y generar la mayor cantidad de opciones; además motiva a un razonamiento mayor y más imaginativo (Ionos, 2018).
+            p.mb-4 Esta técnica generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo. Pues permite aprovechar la participación de los integrantes y generar la mayor cantidad de opciones; además motiva a un razonamiento mayor y más imaginativo (Ionos, 2018).
         .bg-img-1-t2.px-5
           .row.justify-content-center.align-items-start.mx-2         
             .col-lg-12.pb-5.d-none.d-lg-block           
