@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="959.693" height="419" viewBox="0 0 959.693 419">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a28c35"/>
+      <stop offset="1" stop-color="#e2c13a"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_149888" data-name="Grupo 149888" transform="translate(-346.929 -4353.846)">
+    <path id="Trazado_188316" data-name="Trazado 188316" d="M-6419.258-6635.3h696.143" transform="translate(6874.429 11189.811)" fill="none" stroke="#1565c0" stroke-width="5"/>
+    <path id="Polígono_1" data-name="Polígono 1" d="M68,0l68,119H0Z" transform="translate(465.929 4486.846) rotate(90)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_149885" data-name="Grupo 149885" transform="translate(466.389 4362.052)">
+      <path id="Trazado_188317" data-name="Trazado 188317" d="M-6387.063-6805.579l144.124,171.328-144.124,182.712" transform="translate(6408.17 6827.068)" fill="none" stroke="#e9027d" stroke-width="5"/>
+      <path id="Polígono_2" data-name="Polígono 2" d="M13.345,0,26.69,23.354H0Z" transform="matrix(0.777, -0.629, 0.629, 0.777, 0.425, 16.797)" fill="#e9027d"/>
+      <path id="Polígono_3" data-name="Polígono 3" d="M13.345,0,26.69,23.354H0Z" transform="translate(0 369.122) rotate(-20)" fill="#e9027d"/>
+    </g>
+    <g id="Grupo_149886" data-name="Grupo 149886" transform="translate(728.93 4362.052)">
+      <path id="Trazado_188323" data-name="Trazado 188323" d="M-6387.063-6805.579l144.124,171.328-144.124,182.712" transform="translate(6408.17 6827.068)" fill="none" stroke="#1565c0" stroke-width="5"/>
+      <path id="Polígono_4" data-name="Polígono 4" d="M13.345,0,26.69,23.354H0Z" transform="matrix(0.777, -0.629, 0.629, 0.777, 0.425, 16.797)" fill="#1565c0"/>
+      <path id="Polígono_5" data-name="Polígono 5" d="M13.345,0,26.69,23.354H0Z" transform="translate(0 369.122) rotate(-20)" fill="#1565c0"/>
+    </g>
+    <g id="Grupo_149887" data-name="Grupo 149887" transform="translate(986.081 4362.052)">
+      <path id="Trazado_188328" data-name="Trazado 188328" d="M-6387.063-6805.579l144.124,171.328-144.124,182.712" transform="translate(6408.17 6827.068)" fill="none" stroke="#9cd883" stroke-width="5"/>
+      <path id="Polígono_6" data-name="Polígono 6" d="M13.345,0,26.69,23.354H0Z" transform="matrix(0.777, -0.629, 0.629, 0.777, 0.425, 16.797)" fill="#9cd883"/>
+      <path id="Polígono_7" data-name="Polígono 7" d="M13.345,0,26.69,23.354H0Z" transform="translate(0 369.122) rotate(-20)" fill="#9cd883"/>
+    </g>
+    <path id="Trazado_188318" data-name="Trazado 188318" d="M-6343.149-6754.2h-81.794" transform="translate(6874.406 11189.328)" fill="none" stroke="#e9027d" stroke-width="5"/>
+    <path id="Trazado_188322" data-name="Trazado 188322" d="M-6343.149-6754.2h-81.794" transform="translate(7136.946 11189.328)" fill="none" stroke="#1565c0" stroke-width="5"/>
+    <path id="Trazado_188327" data-name="Trazado 188327" d="M-6343.149-6754.2h-81.794" transform="translate(7394.098 11189.328)" fill="none" stroke="#9cd883" stroke-width="5"/>
+    <path id="Trazado_188321" data-name="Trazado 188321" d="M-6343.149-6754.2h-81.794" transform="translate(6874.406 11440.343)" fill="none" stroke="#e9027d" stroke-width="5"/>
+    <path id="Trazado_188326" data-name="Trazado 188326" d="M-6343.149-6754.2h-81.794" transform="translate(7136.946 11440.343)" fill="none" stroke="#1565c0" stroke-width="5"/>
+    <path id="Trazado_188331" data-name="Trazado 188331" d="M-6343.149-6754.2h-81.794" transform="translate(7394.098 11440.343)" fill="none" stroke="#9cd883" stroke-width="5"/>
+    <path id="Trazado_188319" data-name="Trazado 188319" d="M-6343.149-6754.2h-81.794" transform="translate(6924.401 11251.579)" fill="none" stroke="#e9027d" stroke-width="5"/>
+    <path id="Trazado_188324" data-name="Trazado 188324" d="M-6343.149-6754.2h-81.794" transform="translate(7186.941 11251.579)" fill="none" stroke="#1565c0" stroke-width="5"/>
+    <path id="Trazado_188329" data-name="Trazado 188329" d="M-6343.149-6754.2h-81.794" transform="translate(7444.093 11251.579)" fill="none" stroke="#9cd883" stroke-width="5"/>
+    <path id="Trazado_188320" data-name="Trazado 188320" d="M-6343.149-6754.2h-81.794" transform="translate(6924.401 11370.963)" fill="none" stroke="#e9027d" stroke-width="5"/>
+    <path id="Trazado_188325" data-name="Trazado 188325" d="M-6343.149-6754.2h-81.794" transform="translate(7186.941 11370.963)" fill="none" stroke="#1565c0" stroke-width="5"/>
+    <path id="Trazado_188330" data-name="Trazado 188330" d="M-6343.149-6754.2h-81.794" transform="translate(7444.093 11370.963)" fill="none" stroke="#9cd883" stroke-width="5"/>
+    <g id="Rectángulo_44463" data-name="Rectángulo 44463" transform="translate(368.929 4414.846)" fill="none" stroke="#e9027d" stroke-width="5">
+      <rect width="80" height="40" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_44467" data-name="Rectángulo 44467" transform="translate(631.621 4415.248)" fill="none" stroke="#1565c0" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44471" data-name="Rectángulo 44471" transform="translate(888.773 4415.248)" fill="none" stroke="#9cd883" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44466" data-name="Rectángulo 44466" transform="translate(368.929 4665.846)" fill="none" stroke="#e9027d" stroke-width="5">
+      <rect width="80" height="40" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_44470" data-name="Rectángulo 44470" transform="translate(631.621 4666.262)" fill="none" stroke="#1565c0" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44474" data-name="Rectángulo 44474" transform="translate(888.773 4666.262)" fill="none" stroke="#9cd883" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44464" data-name="Rectángulo 44464" transform="translate(419.929 4477.846)" fill="none" stroke="#e9027d" stroke-width="5">
+      <rect width="81" height="39" stroke="none"/>
+      <rect x="2.5" y="2.5" width="76" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_44468" data-name="Rectángulo 44468" transform="translate(682.828 4477.499)" fill="none" stroke="#1565c0" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44472" data-name="Rectángulo 44472" transform="translate(939.98 4477.499)" fill="none" stroke="#9cd883" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44465" data-name="Rectángulo 44465" transform="translate(419.929 4596.846)" fill="none" stroke="#e9027d" stroke-width="5">
+      <rect width="81" height="39" stroke="none"/>
+      <rect x="2.5" y="2.5" width="76" height="34" fill="none"/>
+    </g>
+    <g id="Rectángulo_44469" data-name="Rectángulo 44469" transform="translate(682.828 4596.982)" fill="none" stroke="#1565c0" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <g id="Rectángulo_44473" data-name="Rectángulo 44473" transform="translate(939.98 4596.982)" fill="none" stroke="#9cd883" stroke-width="5">
+      <rect width="80.325" height="39.158" stroke="none"/>
+      <rect x="2.5" y="2.5" width="75.325" height="34.158" fill="none"/>
+    </g>
+    <text id="CAUSA" transform="translate(382.929 4440.846)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-2" data-name="CAUSA" transform="translate(645.678 4441.292)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-3" data-name="CAUSA" transform="translate(902.829 4441.292)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-4" data-name="CAUSA" transform="translate(382.929 4691.846)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-5" data-name="CAUSA" transform="translate(645.678 4692.307)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-6" data-name="CAUSA" transform="translate(902.829 4692.307)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-7" data-name="CAUSA" transform="translate(433.929 4503.846)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="OPCIÓN_3" data-name="OPCIÓN 3" transform="translate(893.929 4368.846)" fill="#9cd883" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 3</tspan></text>
+    <text id="OPCIÓN_6" data-name="OPCIÓN 6" transform="translate(893.929 4768.846)" fill="#9cd883" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 6</tspan></text>
+    <text id="OPCIÓN_2" data-name="OPCIÓN 2" transform="translate(630.929 4368.846)" fill="#1565c0" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 2</tspan></text>
+    <text id="OPCIÓN_5" data-name="OPCIÓN 5" transform="translate(630.929 4768.846)" fill="#1565c0" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 5</tspan></text>
+    <text id="OPCIÓN_1" data-name="OPCIÓN 1" transform="translate(373.929 4368.846)" fill="#e9027d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 1</tspan></text>
+    <text id="OPCIÓN_4" data-name="OPCIÓN 4" transform="translate(373.929 4768.846)" fill="#e9027d" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">OPCIÓN 4</tspan></text>
+    <text id="CAUSA-8" data-name="CAUSA" transform="translate(696.885 4503.544)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-9" data-name="CAUSA" transform="translate(954.036 4503.544)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-10" data-name="CAUSA" transform="translate(433.929 4622.846)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="CAUSA-11" data-name="CAUSA" transform="translate(696.885 4623.027)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <text id="EFECTO" transform="translate(1248.622 4556.15)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">EFECTO</tspan></text>
+    <text id="CAUSA-12" data-name="CAUSA" transform="translate(954.036 4623.027)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CAUSA</tspan></text>
+    <path id="Trazado_188333" data-name="Trazado 188333" d="M-5850.37-7125.594v154.411l71.361-14.374,37.548-47.9-62.053-14.417,64.4-17.427-39.892-43.408Z" transform="translate(6997.027 11599.077)" fill="#1565c0"/>
+    <circle id="Elipse_5013" data-name="Elipse 5013" cx="9" cy="9" r="9" transform="translate(1198.929 4507.846)" fill="#fff"/>
+  </g>
+</svg>
